@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Tech Casual</title>
+    </head>
+    <body bgcolor="Sky blue">
+        <p>
+        <h1 align="left"><font color="white"> Welcome to the World of Tech with Tech Casual</h1>
+        <h3 align="Right">
+            <a href="#"><font color="Black">Home</a>&nbsp;&nbsp;&nbsp;
+            <a href="#"><font color="Black">YouTube Videos</a>&nbsp;&nbsp;&nbsp;
+            <a href="#"><font color="Black">Article</a>&nbsp;&nbsp;&nbsp;
+            <a href="C:\Users\RAHUL\Desktop\New folder\Ritviz - Jeet _Official Music Video_ ( 480 X 854 ).mp4"><font color="Black">Music Video</a>&nbsp;&nbsp;&nbsp;
+            <a href="#"><font color="Black"><Form:get>Contact us</Form:get></a>&nbsp;&nbsp;&nbsp;
+        </h3>
+      </p>
+      <br><br><br><br><br><br><br><br><hr>
+      <h1 align="center"><font color="White">Tech Casual</h1><hr>
+      <h3 align="center">Here We are going to travel to the World of Tech</h3>
+      <h3 align="center">
+          <a href="#"><font color="Black"> Let's get Started</a>
+      </h3>
+      <h3 align="left">To subscribe Please Fill the form below:- </h3>
+      <form>
+        <fieldset>
+            <legend>Form</legend>
+            Name:<input type="text" name="name" title="example:Aman,Om Shankar,Vicky"><br><br>
+            Contact No.-<input type="number" name="number" title="example:1235546895"><br><br>
+            Place:<input type="text" name="place" title="example:Patna , Delhi"><br><br>
+            D.O.B:<input type="date" name="date" title="example:24-12-1999"><br><br>
+            Gender:-&nbsp;&nbsp;
+            <font color ="white" label for="male">Male:</label>
+            <input type="radio" name="start" id="male">
+            <font color="white" label for="female">Female:</label>
+            <input type="radio" name="start" id="female"><br><br>
+            Subscription Pack:-<br><br>
+            <select>
+                <option>Premium Subscription Worth Rs.-999/-</option>
+                <option>Basic Subscription worth Rs.- 299/-</option>
+                <option>Free trial Worth Rs.-0/-</option>
+            </select>
+            <input type="submit" value="subscribe">                  
+        </fieldset>
+      </form>
+      <footer>
+          <p>Copyright 2020@Rahul</p>
+      </footer>
+    </body>
+    
+</html>
