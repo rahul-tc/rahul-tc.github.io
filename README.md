@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahul-tc
-- 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning c++ and bootstrap
-- 💞️ I’m looking to collaborate on wherever u need
-- 📫 How to reach me - contact me through email
+- 👀 I’m interested in programming & web development.
+- 🌱 I’m currently learning Data Structure and React JS.
+- 💞️ I’m looking to collaborate on wherever u need!
+- 📫 How to reach me - contact me through email.
 - u can also watch me on Youtube with the name Tech Casual.
 
 <!---
